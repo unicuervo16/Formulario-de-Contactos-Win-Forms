@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulario de Contactos Win Forms", "Formulario de Contactos Win Forms\Formulario de Contactos Win Forms.csproj", "{903B99E1-B9F5-4511-BD77-6CD0857A5757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903B99E1-B9F5-4511-BD77-6CD0857A5757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903B99E1-B9F5-4511-BD77-6CD0857A5757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903B99E1-B9F5-4511-BD77-6CD0857A5757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903B99E1-B9F5-4511-BD77-6CD0857A5757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92648EE6-E2B4-49FF-BD38-29772BE44D45}
+	EndGlobalSection
+EndGlobal
